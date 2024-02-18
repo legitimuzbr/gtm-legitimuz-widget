@@ -1,0 +1,5 @@
+homepage: "https://legitimuz.com/"
+documentation: "https://doc-sdk.legitimuz.com/"
+versions:
+  - sha: 77cc17c64151741a485cba4f8e7539357ccbb537
+    changeNotes: Primeira versao (1.0)
